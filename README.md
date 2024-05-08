@@ -38,7 +38,7 @@ pip install numpy pandas tensorflow keras scikit-learn
 ```
 
 ### Running the Code
-To run the model training and evaluation scripts, ensure you have navigated to the correct directory where data is located, or adjust the path in the command accordingly.
+To run the model training and evaluation scripts, download the dataset documents, place them in suitable place after unzip, furthermore, ensure you have navigated to the correct directory where data is located, or adjust the path in the command accordingly.
 
 ### Reproduction Instructions
 - **Download the Dataset: Follow the links provided in the Dataset section to download the necessary data.
